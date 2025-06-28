@@ -11,7 +11,7 @@ import Script from "next/script";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://pngimageconverter.com"),
+	metadataBase: new URL("https://pngpngimageconverter.com"),
 	title: {
 		default: "Image Converter - Free Online Image Conversion Tools",
 		template: "%s | Image Converter",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		type: "website",
 		locale: "en_US",
-		url: "https://pngimageconverter.com",
+		url: "https://pngpngimageconverter.com",
 		title: "Image Converter - Free Online Image Conversion Tools",
 		description:
 			"Convert images between different formats online for free. Support for PNG, JPG, JPEG, WebP, and more. Fast, secure, and no registration required.",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
 	},
 	robots: "index, follow",
 	alternates: {
-		canonical: "https://pngimageconverter.com",
+		canonical: "https://pngpngimageconverter.com",
 	},
 };
 

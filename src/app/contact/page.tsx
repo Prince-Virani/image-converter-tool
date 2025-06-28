@@ -24,7 +24,7 @@ export default function ContactPage() {
 					<div className='mb-6'>
 						<h2 className='text-xl font-semibold mb-2'>Email</h2>
 						<p className='text-primary'>
-							support@imageconverter.com
+							support@pngimageconverter.com
 						</p>
 					</div>
 

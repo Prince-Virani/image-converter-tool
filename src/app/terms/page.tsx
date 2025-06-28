@@ -104,9 +104,9 @@ export default function TermsPage() {
 					If you have any questions about these Terms, please contact
 					us at{" "}
 					<a
-						href='mailto:legal@imageconverter.com'
+						href='mailto:legal@pngimageconverter.com'
 						className='text-primary hover:underline'>
-						legal@imageconverter.com
+						legal@pngimageconverter.com
 					</a>
 					.
 				</p>

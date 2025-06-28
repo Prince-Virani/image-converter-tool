@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "Image Converter - Convert Images Online for Free",
     description:
       "Free online image converter. Convert between PNG, JPG, JPEG, WebP, and more formats instantly. No registration required.",
-    url: "https://imageconverter.com",
+    url: "https://pngimageconverter.com",
     siteName: "Image Converter",
     images: [
       {

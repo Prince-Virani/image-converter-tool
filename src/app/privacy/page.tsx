@@ -102,8 +102,8 @@ export default function PrivacyPage() {
         <h2 className="text-2xl font-semibold mb-4">10. Contact Us</h2>
         <p>
           If you have any questions about this Privacy Policy, please contact us at{" "}
-          <a href="mailto:privacy@imageconverter.com" className="text-primary hover:underline">
-            privacy@imageconverter.com
+          <a href="mailto:privacy@pngimageconverter.com" className="text-primary hover:underline">
+            privacy@pngimageconverter.com
           </a>
           .
         </p>
