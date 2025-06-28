@@ -78,7 +78,7 @@ export default function RootLayout({
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
-		gtag('config', 'G-xxxxxxxxx'); // Replace with your Google Analytics ID
+		gtag('config', 'G-FDDYTNH25W'); // Replace with your Google Analytics ID
 	`;
 
 	return (
