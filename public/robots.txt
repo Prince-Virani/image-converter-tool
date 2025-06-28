@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://yourdomainname.com/sitemap.xml
+Sitemap: https://pngimageconverter.com/sitemap.xml
 
 # Important pages to index
 Allow: /terms

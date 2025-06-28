@@ -11,7 +11,7 @@ import Script from "next/script";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://yourdomainname.com"),
+	metadataBase: new URL("https://pngimageconverter.com"),
 	title: {
 		default: "Image Converter - Free Online Image Conversion Tools",
 		template: "%s | Image Converter",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		type: "website",
 		locale: "en_US",
-		url: "https://yourdomainname.com",
+		url: "https://pngimageconverter.com",
 		title: "Image Converter - Free Online Image Conversion Tools",
 		description:
 			"Convert images between different formats online for free. Support for PNG, JPG, JPEG, WebP, and more. Fast, secure, and no registration required.",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
 	},
 	robots: "index, follow",
 	alternates: {
-		canonical: "https://yourdomainname.com",
+		canonical: "https://pngimageconverter.com",
 	},
 };
 
@@ -87,7 +87,7 @@ export default function RootLayout({
 				{/* Google Analytics */}
 				<Script
 					strategy='afterInteractive'
-					src={`https://www.googletagmanager.com/gtag/js?id=G-xxxxxxxxx`} // Replace with your Google Analytics ID
+					src={`https://www.googletagmanager.com/gtag/js?id=G-FDDYTNH25W`} // Replace with your Google Analytics ID
 				/>
 				<Script
 					id='google-analytics'
@@ -104,7 +104,7 @@ export default function RootLayout({
 				{/* AdSense */}
 				<Script
 					strategy='afterInteractive'
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxx' // Replace with your AdSense ID
+					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5951659733720911' // Replace with your AdSense ID
 					crossOrigin='anonymous'
 				/>
 			</head>
